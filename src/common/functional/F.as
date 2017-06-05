@@ -1,7 +1,5 @@
 package common.functional
 {
-	import net.juluvu.common.functional.F;
-
 	public class F
 	{
 		public static const _ : * = {};
