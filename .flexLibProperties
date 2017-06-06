@@ -2,6 +2,40 @@
 <flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
   <includeClasses>
     <classEntry path="common.functional.F"/>
+    <classEntry path="common.functional.L"/>
+    <classEntry path="common.functional.M"/>
+    <classEntry path="common.functional.O"/>
+    <classEntry path="common.tools.StringTool"/>
+    <classEntry path="common.functional.R"/>
+    <classEntry path="common.datastructures.tuple.Duple"/>
+    <classEntry path="common.datastructures.interfaces.IEquals"/>
+    <classEntry path="common.datastructures.tuple.Triple"/>
+    <classEntry path="common.datastructures.tuple.Quadruple"/>
+    <classEntry path="common.datastructures.stack.ArrayedStack"/>
+    <classEntry path="common.datastructures.stack.LinkedStack"/>
+    <classEntry path="common.datastructures.doublylinkedlist.DoublyLinkedList"/>
+    <classEntry path="common.datastructures.interfaces.IDataHolder"/>
+    <classEntry path="common.datastructures.doublylinkedlist.DoublyLinkedListNode"/>
+    <classEntry path="common.datastructures.doublylinkedlist.DoublyLinkedListIterator"/>
+    <classEntry path="common.datastructures.interfaces.IIteratorImperative"/>
+    <classEntry path="common.datastructures.interfaces.IFetcher"/>
+    <classEntry path="common.tools.RangeTool"/>
+    <classEntry path="common.datastructures.doublylinkedlist.tool.DLListTool"/>
+    <classEntry path="common.datastructures.doublylinkedlist.test.TestDoublyLinkedList"/>
+    <classEntry path="common.oldfunctors.XEqualsY"/>
+    <classEntry path="common.oldfunctors.AbstractFunctor"/>
+    <classEntry path="common.oldfunctors.interfaces.IFunctor"/>
+    <classEntry path="common.datastructures.mathematicalset.ArrayedSet"/>
+    <classEntry path="common.datastructures.interfaces.ISet"/>
+    <classEntry path="common.functional.E"/>
+    <classEntry path="common.functional.Comparison"/>
+    <classEntry path="common.oldfunctors.ConvertByRepeatedDivision"/>
+    <classEntry path="common.oldfunctors.ArrayEqualsArray"/>
+    <classEntry path="common.oldfunctors.PairIsEqualAt"/>
+    <classEntry path="common.oldfunctors.ArrayPairIsEqualAt"/>
+    <classEntry path="common.tools.TypeTool"/>
+    <classEntry path="common.datastructures.graph.GraphVertex"/>
+    <classEntry path="common.debug.ArraySampleGenerator"/>
   </includeClasses>
   <includeResources/>
   <namespaceManifests/>
